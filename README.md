@@ -16,3 +16,5 @@ The JAR file can then be run independently:
 ```bash
 java -jar target/simple-hello-1.0.0.jar
 ```
+
+![Naruto](src/main/resources/static/Naruto.jpeg)
